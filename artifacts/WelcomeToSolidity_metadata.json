@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getResult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Welcome-ToSolidity.sol": "WelcomeToSolidity"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Welcome-ToSolidity.sol": {
+			"keccak256": "0xbdd8b9d795d5d6837349c63120d51074d6fe2a352559be7fa4ccd82bee63cd0c",
+			"urls": [
+				"bzz-raw://5461a2eeeedbb143a8a07ad3ce64c3f975684ba2e88f63ffb7b78156c9daa274",
+				"dweb:/ipfs/QmWw8FSm6JCFrwd3ZC8FiGTwB7ZEPf88ryNS1EKxd4wByz"
+			]
+		}
+	},
+	"version": 1
+}
